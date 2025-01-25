@@ -59,7 +59,7 @@ Bar chart highlighting the most profitable sub-categories like Printers and Book
 4. Use slicers and filters for custom views.  
 
 ### **4. Demo Video**  
-👉 https://github.com/user-attachments/assets/27d0de01-ccdb-41c4-8288-6f28d1c803ff  
+https://github.com/user-attachments/assets/27d0de01-ccdb-41c4-8288-6f28d1c803ff  
 
 ---
 
